@@ -1,0 +1,9 @@
+Projet OpenGeda
+OpenGeda est un Projet qui consiste à réaliser une application web distribuée ( Plate-forme JEE) qui s'occupe de la gestion du club OPEN MINDS (gestion des adhérents , gestion de Projets..ect ) , cette application permettra à la fois d'historiser toutes les actions et les informations tournantes autours du club que ce soit les adhérents , les équipes ou les événement ..ect , elle a pour objectif de faciliter la vie de l’adhérent au sein du club (inscription informatisé , information des équipe.. ) , on se basera sur les points suivants :
+Inscription informatisé des adhérents ( BD et badges des adhérents générés automatiquement).
+Gestion des Teams et les sections du club.
+Gestion des événements et formations.
+Gestion des projets.
+Gestion des transaction du club.
+etc.
+Ce Projet va permettre au adhérents du club d'apprendre les méthodes de conception logiciel et des notions sur la plate-forme JEE ainsi que l'architecture utilisée n-tiers 
